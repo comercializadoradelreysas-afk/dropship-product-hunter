@@ -1,12 +1,1 @@
-streamlit==1.32.0
-requests==2.31.0
-beautifulsoup4==4.12.3
-selenium==4.18.1
-pandas==2.2.1
-notion-client==2.2.1
-google-auth==2.28.1
-google-api-python-client==2.120.0
-python-dotenv==1.0.1
-schedule==1.2.1
-openai==1.14.0
-playwright==1.42.0
+
